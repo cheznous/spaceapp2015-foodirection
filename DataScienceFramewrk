@@ -1,0 +1,92 @@
+Core Subject Area 1 - Application Of The Scientific Method
+1)	Defining The Question/Hypothesis
+	a)	Soft Operational Research Methods
+	b)	Stating Clear Assumptions
+	c)	Defining the Scope & Boundary
+2)	Data Science & Big Data Research
+	a)	Researching What & How Much Data To Analyse
+	b)	Identifying Key Data Attributes & Linking Back To The Question Defined
+	c)	Exploratory Data Analyses
+	d)	Creating A Data Dictionary And A Data Glossary
+	e)	Identifying Data Parameters
+3)	Modelling The Hypothesis - Types of Models To Consider
+	a)	Static Models
+	b)	Dynamic Models
+	c)	Stochastic Models
+	d)	Machine Learning Models
+	e)	Predictive Models
+	f)	Behavioural Models
+	g)	Forecasting Models
+	h)	Simulation Modelling
+	i)	Optimisation Models
+	j)	Decision Theory Models
+	k)	Game Theory Models
+	l)	Fuzzy System Models
+4)	Testing The Model & Validating The Assumptions (Basic Statistics)
+	a)	Null Hypothesis
+	b)	Alternative Hypothesis
+	c)	Interval Estimation
+	d)	True Fit
+	e)	Bias
+	f)	Sensitivity
+	g)	Significance
+	h)	Margin of Error
+	i)	Thresholds
+	j)	Outliers
+	k)	Standard Deviation
+	l)	Variance
+	m)	Sample Statistics versus Full Population Statistics in Big Data Analytics
+5)	Interpretation Of The Results 
+	a)	Reproducibility, Audit-ability and Trace-ability
+6)	Concluding & Recommending
+	a)	independent Peer Review
+	b)	Availability Of Data
+
+Core Subject Area 2 - Tools of the Trade
+1.	Definition of Big Data (4 Vs: Volume, Velocity, Variety & Veracity)
+2.	Big Data Hardware Overview
+	a.	Structured Data Hardware: Relational Databases i.e. 3rd & 4th Normal Form Data Warehousing (Codd & Date), Operational Data Stores (Inmon), Dimensional Modelling (Kimball)
+	b.	Unstructured Data Hardware (HDFS, Hadoop/MongoDB, MapReduce, Cassandra, Pig, Hive, Complex Event Processing)
+	c.	Building a Technical Stack for both Structured & Unstructured Data
+	d.	Cloud Computing
+	e.	Software as a Service (SaaS)
+3.	Data Science Programming Languages
+	a.	R
+	b.	Sql
+	c.	Python
+	d.	Java
+4.	Data Visualisation Software
+	a.	Reporting Software (Excel PowerPivot, Business Objects, Cognos etc)
+	b.	Analytics Software (Tableau, Pivotal, Spotfire etc)
+	c.	Advance Analytics Software (Matlab, SAS, SPSS etc)
+
+Core Subject Area 3 - Interpersonal & Communication Skills
+1)	Data Visualisation
+	a)	Fundamentals of John R. Tukey
+	b)	Fundamentals of Edward Tufte
+2)	Using Infographics
+	a)	Colour, Shade, Size & Shape
+	b)	Miscommunication & Interpretation Ethics
+3)	Communication Skills
+	a)	Organisation 
+	b)	Content
+	c)	Structure
+	d)	Body Language
+	e)	Vocal Variety
+	f)	Research Poster Presentations
+	g)	Visual Aids and Presentation Technology
+	h)	Persuasion and Inspiration
+4)	Leadership Skills
+	a)	Developing a Vision, Mission, Strategy & Goals
+	b)	Choosing and Building a Team
+	c)	Delegation & Task Setting
+	d)	Measuring Strategic Performance (Balanced Scorecards)
+	e)	Feedback and Evaluation
+	f)	Mentoring & Succession Planning
+5)	Consultancy & Project Management
+	a)	Preparing & Producing a Bid for a Contract Of Services
+	b)	Legal Terms Of Reference
+	c)	A Statement Of Work
+	d)	Service Delivery & Project Management
+	e)	Project Reporting & Closure
+	f)	Post-Service Support
